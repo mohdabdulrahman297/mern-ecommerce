@@ -39,7 +39,7 @@ To run this application locally, follow these steps:
 4) Run the development server: npm start for both client and server
 
 # Demo
-Explore the live demo of the application at https://tame-erin-frog-wig.cyclic.app/
+Explore the live demo of the application at [https://tame-erin-frog-wig.cyclic.app/](https://mern-ecommerce-sbqi.onrender.com/)
 
 # Features
 User authentication and authorization
